@@ -7,5 +7,4 @@
 
 
 
-<p align="center">
-<a href="https://rentry.co/birdyyy" target="_blank">rentry</a>
+
