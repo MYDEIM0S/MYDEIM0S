@@ -1,6 +1,4 @@
-<p align="center">  
-<a href="https://github.com/K1NGC4EL" target="_blank">caeldumb 𓏵 
-<a href="https://github.com/jingnyann"target="_blank">fifidumb          
+         
 
 
 
