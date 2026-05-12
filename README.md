@@ -1,6 +1,6 @@
          
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=SERAPHINA&label=💖&color=e24966&style=plactic">
+<img src="https://komarev.com/ghpvc/?username=SERAPHINA&label=geumseongje&color=e24966&style=plactic">
 
 <div align="center">
 
