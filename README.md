@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![633](https://github.com/S3RAPHINA/website-for-apps/blob/669a0238c47efb01a87098f220744ddb6def0c48/We%20Heart%20It.gif)
-
+<img width="540" height="304" alt="Image" src="https://github.com/user-attachments/assets/bfe5e61e-98bf-4d9b-ba19-7096e698e5fa" />
 
 ♡
 
