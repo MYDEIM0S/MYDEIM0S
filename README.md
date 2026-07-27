@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="540" height="600" alt="Image" src="https://github.com/S3RAPHINA/website-for-apps/blob/8e61ddf82fb4694524564d38af7406a91c7f6aab/159877855518815153-removebg-preview.png" />
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/c346f7ac-d062-4c99-b66d-ae4c293e06c8" />
 
 ♡
 
