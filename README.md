@@ -1,7 +1,9 @@
          
 
 <div align="center">
-
+         
+<img width="600" height="260" alt="Image" src="https://github.com/user-attachments/assets/181fb6fb-e050-4496-9f6b-1cc5899e7ff6" />
+         
 ♡
 
 <a href="https://miwacat.atabook.org" target="_blank">sign my ata<3
