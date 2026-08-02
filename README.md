@@ -6,6 +6,8 @@
          
 ♡
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EECB&width=435&lines=I+feel+like+peek+at+you;Or+maybe+Megatron;Side+by+side;Hear+this+megaton)](https://git.io/typing-svg)
+
 <a href="https://miwacat.atabook.org" target="_blank">ata<3
 
 
