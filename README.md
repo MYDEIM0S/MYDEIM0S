@@ -2,7 +2,7 @@
 
 <div align="center">
          
-<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/b65955c5-22f9-44a6-9d79-28c4cd98f311" />
+<img width="736" height="800" alt="Image" src="https://github.com/4-ttaca/website-for-apps/blob/2963ff155a2537bcba1a6b3d2dab68cbd65e93dc/WhatsApp_Image_2026-08-15_at_11.10.40_AM__2_-removebg-preview.png" />
          
 ♡
 
