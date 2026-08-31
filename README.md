@@ -17,7 +17,7 @@
          
 ♡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Romance&pause=1000&color=F78CDE&width=435&lines=kiss...;kisss.....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=F7F7F7&width=435&lines=Don%E2%80%99t+forget+my+name%2C+Soul+Reaper%2C;and+you+better+pray+that+you+never+hear+it+again!;Grimmjow+Jaegerjaquez%E2%80%A6+;because+the+next+time+you+hear+my+name%2C+you%E2%80%99ll+be+a+dead+man%E2%80%A6+;+I+promise.)](https://git.io/typing-svg)
 
 <a href="https://miwacat.atabook.org" target="_blank">ata<3
 
