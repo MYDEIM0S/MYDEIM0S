@@ -2,7 +2,18 @@
 
 <div align="center">
          
-<img width="780" height="245" alt="Image" src="https://files.catbox.moe/x6l2rb.png" />
+  <br>
+  <img src="![](https://files.catbox.moe/x6l2rb.png)"width="400">
+  <br>
+  <div>
+
+<div align="center">
+         
+   ![](https://github.com/4-ttaca/website-for-apps/blob/0baa36f6e7d68cfb03c754d4415973d66b0977b8/Grimmjow_Jaegerjaquez-removebg-preview.png)
+
+  </div>
+
+</div>
          
 ♡
 
